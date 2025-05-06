@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">chat_apps</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="password_Lischat">Password</string>
+    <string name="login_listchat">Login</string>
+    <string name="register_listchat">Register</string>
+    <string name="phone_number">no handphone</string>
+    <string name="country">negara</string>
+    <string name="form_registrasi">Form Registrasi</string>
+</resources>
